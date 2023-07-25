@@ -2,3 +2,4 @@
 
 - this is a readme file.
 - add second line.
+- example for a conflict
